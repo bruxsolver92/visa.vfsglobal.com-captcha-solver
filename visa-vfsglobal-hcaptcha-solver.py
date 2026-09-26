@@ -1,1 +1,1 @@
-print('contact @brux92 for access ')
+print('USE bruxsolver.org ')
